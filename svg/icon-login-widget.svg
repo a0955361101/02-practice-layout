@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="icon icon-widget" viewBox="0 0 64 32" focusable="false" width="64"  height="32" ><defs><symbol id="icon-login-widget" viewBox="0 0 64 32">
+            <title>icon-login-widget</title>
+            <path fill="none" stroke="#000" style="stroke: var(--color1, #000)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M36.8 8c0 2.651-2.149 4.8-4.8 4.8s-4.8-2.149-4.8-4.8c0-2.651 2.149-4.8 4.8-4.8s4.8 2.149 4.8 4.8z"></path>
+            <path d="M28.8 15.2c-2.209 0-4 1.791-4 4v0 4h14.4v-4c0-2.209-1.791-4-4-4v0h-6.4zM28.8 13.6h6.4c3.093 0 5.6 2.507 5.6 5.6v0 5.6h-17.6v-5.6c0-3.093 2.507-5.6 5.6-5.6v0z"></path>
+        </symbol></defs>
+                <use xlink:href="#icon-login-widget"></use>
+            </svg>

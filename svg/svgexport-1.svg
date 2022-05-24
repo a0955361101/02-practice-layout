@@ -1,0 +1,8 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" class="listImgRow1b-decoration index-kvBg" viewBox="0 0 96 32" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMaxYMax meet" aria-hidden="true" focusable="false" width="1907"  height="636" ><defs><symbol id="bg-kv-decoration-index" viewBox="0 0 96 32">
+                <path fill="#f4f4f4" style="fill: var(--color1, #f4f4f4)" d="M95.776 24.62v0 2.252c-12.381 3.141-30.729 5.128-51.117 5.128l51.131-0.019z"></path>
+                <path fill="#fff" style="fill: var(--color2, #fff)" d="M95.776 25.394c-11.092 3.877-30.885 6.457-53.361 6.457-8.902 0-17.141-0.389-24.729-1.112-5.76-0.533-11.833-1.321-17.671-2.477v0.029h0.012c11.9 2.31 27.524 3.709 44.632 3.709 20.388 0 38.736-1.987 51.117-5.128z"></path>
+                <path fill="#4b7d6b" style="fill: var(--color3, #4b7d6b)" d="M95.776 25.394v0-0.774c-0.023 0.010-13.884 6.372-49.069 7.146 0 0-13.352 0.499-29.021-0.953 7.585 0.723 15.712 1.074 24.729 1.187 22.475 0.28 42.268-2.729 53.361-6.606z"></path>
+                <path fill="#f4f4f4" style="fill: var(--color1, #f4f4f4)" d="M0.015 30.021v1.979h44.644c-17.108 0-32.732-1.4-44.632-3.707z"></path>
+            </symbol></defs>
+                <use xlink:href="#bg-kv-decoration-index"></use>
+            </svg>

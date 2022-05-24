@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="icon icon-widget" viewBox="0 0 64 32" focusable="false" width="64"  height="32" ><defs><symbol id="icon-flightNumber-widget" viewBox="0 0 64 32">
+            <title>icon-flightNumber-widget</title>
+            <path d="M27.192 23.2l2.856-14.4h-5.872l-8.568 14.4h11.584zM28.512 24.8h-15.712l10.472-17.6h8.728zM50.4 23.2h-17.6c-0.442 0-0.8-0.358-0.8-0.8s0.358-0.8 0.8-0.8v0h17.6c0.442 0 0.8 0.358 0.8 0.8s-0.358 0.8-0.8 0.8v0zM41.6 20h-8.8c-0.442 0-0.8-0.358-0.8-0.8s0.358-0.8 0.8-0.8v0h8.8c0.442 0 0.8 0.358 0.8 0.8s-0.358 0.8-0.8 0.8v0z"></path>
+        </symbol></defs>
+                <use xlink:href="#icon-flightNumber-widget"></use>
+            </svg>

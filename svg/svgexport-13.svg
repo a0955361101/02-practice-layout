@@ -1,0 +1,5 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="btn-icon icon-fromtoSwitch" focusable="false" width="32"  height="32" ><defs><symbol id="icon-fromtoSwitch" viewBox="0 0 32 32">
+            <path fill="#4b7d6b" d="M10 12v4l-10-5.992 10-6.008v4c2.209 0 16 1.015 16 6.667-1.669-1.050-3.646-1.775-5.767-2.036l-0.069-0.007c-2.906-0.398-6.265-0.626-9.676-0.626-0.171 0-0.343 0.001-0.514 0.002l0.026-0zM22 20v-4l10 5.992-10 6.008v-4c-2.209 0-16-1.015-16-6.667 1.669 1.050 3.646 1.775 5.767 2.036l0.069 0.007c2.907 0.398 6.267 0.626 9.68 0.626 0.17 0 0.341-0.001 0.511-0.002l-0.026 0z"></path>
+        </symbol></defs>
+                            <use xlink:href="#icon-fromtoSwitch"></use>
+                        </svg>
